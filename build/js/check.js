@@ -31,7 +31,8 @@ function getMessage(a, b) {
 =======
 
 function getMessage(a, b) {
-  if (typeof a == 'boolean') {
+  if (typeof a == 'boolean') 
+  {
     if (a) {
       return 'Переданное GIF-изображение анимировано и содержит ' + b + ' кадров';
     } else {
