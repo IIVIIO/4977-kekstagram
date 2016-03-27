@@ -1,7 +1,11 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Игорь Квашнев](https://up.htmlacademy.ru/javascript/4/user/4977).
+<<<<<<< HEAD
 * Наставник: `Игорь Кузнецов`.
+=======
+* Наставник: `Игорь  Кузнецов`.
+>>>>>>> module1-task1
 
 ---
 
