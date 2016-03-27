@@ -1,9 +1,16 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Игорь Квашнев](https://up.htmlacademy.ru/javascript/4/user/4977).
+<<<<<<< HEAD
+* Наставник: `Игорь  Кузнецов`.
+=======
+>>>>>>> module1-task2
+
+
 * Наставник: `Игорь  Кузнецов`.
 
----
+
+
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.eslintignore`, `.eslintrc`, `.gitignore`, `.travis.yml`, `package.json`._
