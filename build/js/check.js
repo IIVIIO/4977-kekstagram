@@ -29,8 +29,6 @@ function getMessage(a, b) {
 }
 //проверка
 =======
- 
- 
 
 function getMessage(a, b) {
   if (typeof a == 'boolean') {
