@@ -20,8 +20,10 @@ function getMessage(a, b) {
 
 		for (var i = 0; i < a.length; i++) {
 			sum += a[i];
+
 		}
 
 		return 'Количество красных точек во всех строчках изображения: ' + sum;
 	}
 }
+//проверка
